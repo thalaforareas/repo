@@ -1,0 +1,3 @@
+[submodule "enow"]
+	path = enow
+	url = https://github.com/thalaforareas/enow.git
